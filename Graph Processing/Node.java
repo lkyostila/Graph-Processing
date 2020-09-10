@@ -42,7 +42,7 @@ public class Node {
     public void visited(boolean n) {
         visited = n;
     }
-
+    // Tämä on kommentti
     /* Constructor.
      */
     public Node(float n, float m, Node[] j, boolean k) {
